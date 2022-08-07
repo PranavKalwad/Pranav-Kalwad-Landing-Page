@@ -35,7 +35,7 @@
 
 # Connect with Me
 
-<a href="http://linkedin.com/in/pranav-kalwad"><img align="left" src="https://raw.githubusercontent.com/PranavKalwad/Pranav-Kalwad-Landing-Page/master/images/linkedin.jpg" alt="icon | LinkedIn" width="60px" height="50px"/></a> <a href="https://www.instagram.com/pranav_kalwad/"><img align="left" src="https://raw.githubusercontent.com/PranavKalwad/Pranav-Kalwad-Landing-Page/master/images/instagram.jpg" alt="icon | LinkedIn" width="60px" height="50px"/></a> 
+<a href="http://linkedin.com/in/pranav-kalwad"><img align="left" src="https://raw.githubusercontent.com/PranavKalwad/Pranav-Kalwad-Landing-Page/master/images/linkedin.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> <a href="https://www.instagram.com/pranav_kalwad/"><img align="left" src="https://raw.githubusercontent.com/PranavKalwad/Pranav-Kalwad-Landing-Page/master/images/instagram.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> <a href="http://linkedin.com/in/pranav-kalwad"><img align="left" src="https://raw.githubusercontent.com/PranavKalwad/Pranav-Kalwad-Landing-Page/master/images/linkedin.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> 
 
 <br/>
 <br/>
