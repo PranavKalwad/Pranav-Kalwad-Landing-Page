@@ -35,7 +35,7 @@
 
 # Connect with Me
 
-<a href="https://www.linkedin.com/in/Pranav Kalwad/"><img align="left" src="https://raw.githubusercontent.com/PranavKalwad/Pranav-Kalwad-Landing-Page/master/images/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/Pranav Kalwad/"><img align="left" src="https://raw.githubusercontent.com/PranavKalwad/Pranav-Kalwad-Landing-Page/master/images/instagram.jpg" alt="icon | LinkedIn" width="21px"/></a>
 
 <br/>
 <br/>
