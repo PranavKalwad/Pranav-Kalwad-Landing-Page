@@ -41,7 +41,7 @@
 
 # Connect with Me
 
-<a href="https://pranavkalwad.netlify.app/" target="_blank">click here</a> <p>to view my personal portfolio website</p>
+<a href="https://pranavkalwad.netlify.app/" target="_blank">click here</a> to view my personal portfolio website
 
 <a href="http://linkedin.com/in/pranav-kalwad"><img align="left" src="https://raw.githubusercontent.com/PranavKalwad/Pranav-Kalwad-Landing-Page/master/images/linkedin.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> <a href="https://www.instagram.com/pranav_kalwad/"><img align="left" src="https://raw.githubusercontent.com/PranavKalwad/Pranav-Kalwad-Landing-Page/master/images/instagram.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> <a href="https://twitter.com/kalwad_pranav"><img align="left" src="https://raw.githubusercontent.com/PranavKalwad/Pranav-Kalwad-Landing-Page/master/images/twitter.svg" alt="icon | LinkedIn" width="60px" height="50px"/></a> 
 
